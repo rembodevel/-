@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="save">Сохранить заметку</string>
+    <string name="title">Название</string>
+    <string name="description">Текст</string>
+    <string name="This_is_the_Title">Это название</string>
+    <string name="This_is_the_description">Это текст</string>
+    <string name="delete_all_notes">Удалить все заметки</string>
+</resources>
